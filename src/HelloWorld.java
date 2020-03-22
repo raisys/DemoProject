@@ -12,5 +12,9 @@ public class HelloWorld {
 		System.out.println("Hello, Waukee");
         System.out.println("Hello, Iowa");
     }
+	
+	public static void printHello(String strPlace) {
+        System.out.println("Hello, "+ strPlace);
+    }
 
 }
