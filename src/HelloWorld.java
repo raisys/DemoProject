@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("Hello, ILLINOIS");
         System.out.println("Hello, IOWA");
 		System.out.println("Hello, Des Moine");
+		System.out.println("Hello, West Des Moine");
     }
 
 }
