@@ -9,7 +9,6 @@ public class HelloWorld {
 	printHello("IOWA-US102");
 	printHello("IL-US501");
 	printHello("IL-US502");
-	printHello("IL-US503");
     }
 	
 	public static void printHello(String strPlace) {
